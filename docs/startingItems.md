@@ -3,7 +3,7 @@ title: Starting Items
 layout: default
 ---
 
-### [Main Page](./index)
+## [Main Page](./index)
 
 Items:
 - Erin: *Living Map of the Riddler*
