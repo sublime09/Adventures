@@ -9,7 +9,8 @@ layout: default
 
 **We being at a crossroads tavern**
 
-### Intro - Tavern of Peace and Serenity
+### Intro Tavern
+- Tavern of Peace and Serenity
 - Father Mara, (human barkeep, "Cricket", in love with Debi) 
 	- *That rich fellow didn't pay up to keep his casks, want the first drink?  It's not a stock I handle, so I want to be rid of it soon*
 - Three steel casks, one connection between them
