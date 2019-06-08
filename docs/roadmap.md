@@ -38,13 +38,17 @@ layout: default
 	- Uses wrong words all the time. 
 		- `Try not to kill?`
 1. "Sacrifices must be made" -SacriFoci religious leader
-		- Susej's great sacrifice
+	- Susej's great sacrifice
 	- Join in feast, replenish HP
 	- Fight: **Hard** 2 [Lizardfolk](http://www.orcpub.com/dungeons-and-dragons/5th-edition/monsters/lizardfolk) + 1 [Liz Shaman](https://www.aidedd.org/dnd/monstres.php?vo=lizardfolk-shaman) MonMan 205
 	- Chokers in caves preying on them?
 
-### Extras
+### Extra Fights
 1. Fight: [8 Kobolds](https://roll20.net/compendium/dnd5e/Monsters:Kobold/#content)
 1. Fight: [6 Kobold Inventors](https://www.aidedd.org/dnd/monstres.php?vo=kobold-inventor) Volo 166
 1. Med-Hard Fight: [2 Chokers](http://chisaipete.github.io/bestiary/creature/choker) that climb everything
 	- Grapple: PHB 195
+
+### Traps
+1. Floor covered in 16 Hunting Traps: DC 13 DEX: 1d4 dmg ; 1 dmg per turn ; DC 13 STR
+1. [Thunderwave](https://roll20.net/compendium/dnd5e/Thunderwave#content) Glyph. DC 13 perception
