@@ -10,6 +10,7 @@ layout: default
 **We being at a crossroads tavern**
 
 ### Intro Tavern
+- `Tavern burned down, Father Mara scarred`
 - Tavern of Peace and Serenity
 - Father Mara, (human barkeep, "Cricket", in love with Debi) 
 	- *That rich fellow didn't pay up to keep his casks, want the first drink?  It's not a stock I handle, so I want to be rid of it soon*
@@ -18,6 +19,7 @@ layout: default
 	- Burns down the peaceful tavern  `my tradition?`
 
 ### Puzzle Addicts
+- `Not done yet!`
 - *Puzzle Addicts Anonymous meeting in basement*
 - META: Group of friends intently working out puzzles
 - *Ohhhhh, a Clavi?  I always thought it was a Clavichord!*
@@ -27,12 +29,14 @@ layout: default
 - Give Living Map to Erin?
 
 ### Tassadar? 
+- `Briefly met`
 - Tassadar (Dragonborn, booming, flustered)
 - *En Taro Adun, Heroes!*
 - *Oh, I deserve to be scaled alive for losing the Father's Magmins*
 	- Serves the SacriFoci 
 
 ### The Map's Swim
+- `Not done yet!`
 - Living map's idea: *let's go swimming*
 - Lake with sunken ornate ship, mast is visible. DB cooper. 
 - Deep water puzzle. Suffocation danger. Teamwork needed.   
@@ -42,6 +46,7 @@ layout: default
 - Map: blurred *I don't like swimming anymore*
 
 ### The Kniget
+- `Tripped, knocked out before combat even started`
 - *"Ah! This was part of my training!" *
 - Fight / Spar: [Knight](http://www.orcpub.com/dungeons-and-dragons/5th-edition/monsters/knight); MonMan 347
 - Knight named K-Niget. Knight of the illiterate. 
@@ -49,6 +54,7 @@ layout: default
 	- `Try not to kill?`
 
 ### The Cult
+- `Met, nearly attacked, `
 - *"Sacrifices must be made"* - SacriFoci religious leader
 - Susej's great sacrifice
 - Join in feast, replenish HP
@@ -56,11 +62,11 @@ layout: default
 - Chokers in caves preying on them?
 
 ## Extra Fights
-1. Fight: [8 Kobolds](https://roll20.net/compendium/dnd5e/Monsters:Kobold/#content)
+1. Fight: [8 Kobolds](https://roll20.net/compendium/dnd5e/Monsters:Kobold/#content) `done`
 1. Fight: [6 Kobold Inventors](https://www.aidedd.org/dnd/monstres.php?vo=kobold-inventor) Volo 166
-1. Med-Hard Fight: [2 Chokers](http://chisaipete.github.io/bestiary/creature/choker) that climb everything
+1. Med-Hard Fight: [2 Chokers](http://chisaipete.github.io/bestiary/creature/choker) that climb everything `done`
 	- Grapple: PHB 195
 
 ## Traps
 1. Floor covered in 16 Hunting Traps: DC 13 DEX: 1d4 dmg ; 1 dmg per turn ; DC 13 STR
-1. [Thunderwave](https://roll20.net/compendium/dnd5e/Thunderwave#content) Glyph. DC 13 perception
+1. [Thunderwave Glyph](https://roll20.net/compendium/dnd5e/Thunderwave#content). DC 13 perception
